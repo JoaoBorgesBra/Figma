@@ -1,0 +1,134 @@
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-desktop1 {
+  width: 100%;
+  height: 1478px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(236, 216, 216, 1);
+}
+.desktop1-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 1503px;
+  height: 542px;
+  position: absolute;
+}
+.desktop1-text {
+  top: 169px;
+  left: 505px;
+  color: rgba(209, 14, 37, 1);
+  width: 371px;
+  height: auto;
+  opacity: 0.90;
+  position: absolute;
+  font-size: 180px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Indie Flower;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text01 {
+  color: rgba(209, 14, 37, 1);
+}
+.desktop1-rectangle2 {
+  top: 1255px;
+  left: 0px;
+  width: 1503px;
+  height: 223px;
+  position: absolute;
+}
+.desktop1-rectangle3 {
+  top: 697px;
+  left: 477px;
+  width: 265px;
+  height: 265px;
+  position: absolute;
+}
+.desktop1-rectangle4 {
+  top: 697px;
+  left: 762px;
+  width: 265px;
+  height: 265px;
+  position: absolute;
+}
+.desktop1-ellipse2 {
+  top: 1321px;
+  left: 705px;
+  width: 92px;
+  height: 92px;
+  position: absolute;
+}
+.desktop1-text06 {
+  top: 1150px;
+  left: 389px;
+  color: rgba(0, 0, 0, 1);
+  width: 725px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text11 {
+  top: 388px;
+  left: 659px;
+  color: rgba(54, 49, 49, 1);
+  width: 185px;
+  height: auto;
+  position: absolute;
+  font-size: 210px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Jomhuria;
+  font-weight: 400;
+  line-height: 150px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text13 {
+  top: 962px;
+  left: 825px;
+  color: rgba(180, 39, 39, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Jacques Francois;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text15 {
+  top: 962px;
+  left: 532px;
+  color: rgba(180, 39, 39, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Jacques Francois;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
